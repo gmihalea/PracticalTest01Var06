@@ -1,4 +1,4 @@
 # PracticalTest01Var06
 
-Mihalea Geanina
-341C1
+A practical exam during Mobile Computing Course. 
+Technology: Android
